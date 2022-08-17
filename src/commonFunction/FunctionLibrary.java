@@ -120,7 +120,12 @@ public class FunctionLibrary extends AppUtil{
 			return false;
 		}
 	}
-	
+	public void add()
+	{
+		int a=10,b=87,c;
+		c=a/b;
+		System.out.println();
+	}
 	}
 
 
